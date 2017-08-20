@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_a088f08b890bb28a666e5dc2fcd36a53a3877809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_1b361c23e39c9efaa438b1563fda70f6f736ab3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_9a97a8726bca0deecaa3831b7663039f1e163db6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_3d69a5ffb6c3c1fe722d509473995f176f5f4fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_57e76132e134220408bb1bf912445dcaaa2c45cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_45e455342ba819c3ea9291f9868fb774c48487cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\work\tools\sdk_studio\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_30cae26ece95a7fb115084179c4f3b95a608ec6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_3868fffbf8229c21cdc64530f0bb7ce3979f5064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_e1869a55bbd8fcfbf961ce4163b921bf2aade8e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d25211773880bcc99c2e811eefc44f885255837a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7a355320affd355e1250097eff03ecdba9dc90a1">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7f185341966edad22154d78a51411c6dce94f992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_16201e95654022411465be471ba4e27897ee0951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_bea7478b7c62b50df1bd717c79975343d51b81fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_27a4c88e55647d4b28a43b476418ac0efaea0f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0b8c3b312b393dff10aec5ee6f4a5e143a1d6e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_6dc2715e3f6610d0975fc76efaf0af89f9051b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_1a0390c54f0b4e9fb16aa8e3709eb564081a01d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_8ed7e141fab6e3a323715c1157172127ec47a3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8553d233fcf711301e0ebbd0851e06b918edabbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_ad4efc5ff7b93d06b3b803ed12311f8cb15a155b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_7fb907993cffc49ad301b73989be3dacdcafcc51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_395120ba45b63792ea1f61699fc633c320905aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7c875bbff479911fa2415dbc7dfabcb08fe40eea">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7ca4d36d3ae642fb37fc94c8743cf88fbde0bb88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_4f2d65d89110667f32628f47476e17f29921da1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_8a618d2678951a335bd6c26e383d06b9b36a8b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0354fc26c1e408dc45c89b6a16c5b99895d8b07a">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\instant-run_fbe4bace0ced37ef52d40431b3b234e17d6d38a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9b897cdf39d2a81e1c9fa74bf8515766ee119a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_abf6dabaf93659c8b16e3078ff4b05dde0bf57c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fbdda5dbe1749f93bf0ce8a6b7178a7fb6005725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_d9859b4da903b637a04fe00348ab56b9f21d836d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_4c341e3ccafd0a23cbf696056c6d776a57369090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9bc40dd46d385a20b2eeec6ebc2d262059a41af6">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\myapplication\build\intermediates\pre-dexed\debug\instant-run_3b654bdcd225eea9669c0af910be50c057c9352c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\sszz\Desktop\WidgetDemo\drawtextdemo\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a1172aef19b003e91941fb4ccaec2cea268a086a.jar" />
+    </item>
+
+</items>
